@@ -1,0 +1,10 @@
+.env
+.taizo-bot
+.vscode
+.flake8
+
+__pycache__
+__init__.py
+
+source_data
+langchain_storage
